@@ -1,0 +1,123 @@
+Name,Type,fine_art,modern_art,contemporary_art,decorative,sculpture,science,history,culture,film,literary,music,kids,fashion,photography,special,Summary
+Arab World Institute,Culture,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,"(MF) History, ancient and medieval archeology, arts and crafts, ethnographic and contemporary art of the countries of the Arab world"
+Archaeological Crypt of the Paris Notre-Dame,Archaeological,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,(VP) Remains under Notre Dame de Paris of buildings dating back to the city's early days
+Art Ludique,Art,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,"Exhibitions of contemporary art in comic books, manga, cinema, live animation and videogames"
+Bibliothèque-Musée de l'Opéra National de Paris,Opera,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,"Library and museum about the Paris Opera, part of the Music Department of the National Library of France"
+Bibliothèque Polonaise de Paris,Biographical,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,"Includes three small museums about Polish natives: Musée Adam Mickiewicz about the poet, Musée Boleslas Biegas with paintings and sculpture by the artist and other Polish artists, and Salon Frédéric Chopin about the composer"
+Cabinet des Médailles,Numismatic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,"Located in the Bibliothèque nationale de France, includes coins, medals, antiques from the ancient Near East, Greece, Rome, and national antiquities"
+Catacombes de Paris,History,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,(VP) Underground ossuary with the remains of over six million people
+Cité de l'Architecture et du Patrimoine,Architecture,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Located in the Palais de Chaillot, includes Musée national des Monuments Français with plaster casts of French architecture, gallery of reproduced wall paintings and stained-glass windows from historic monuments, French and international architecture from 1850 to the present"
+Cité des Sciences et de l'Industrie,Science,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"Hands-on science exhibits, includes the French submarine Argonaute (S636)"
+Cité nationale de l'histoire de l'immigration,Ethnic,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,"(MF) History and culture of immigration in France from the 19th century to the present, located in the Palais de la Porte Dorée"
+Espace Dalí,Art,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,"Life of and sculptures, engravings and paintings of Salvador Dalí"
+Espace Fondation EDF,Art,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,New media exhibitions and exhibitions about society and culture
+Fondation Cartier pour l'Art Contemporain,Art,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Contemporary art
+Fondation Custodia,Art,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Frits Lugt collection of European drawings, prints, paintings, books and artists' letters from the 15th to 19th century, focusing on Dutch and Flemish Old Masters, Italian and French artists"
+Fondation Jean Dubuffet,Art,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,"Works by Jean Dubuffet, also main museum in Périgny, Val-de-Marne"
+Fondation Louis Vuitton,Art,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,Contemporary art
+Gaîté Lyrique,Art,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,(VP premises) Digital art and culture center
+Galerie des Gobelins,Decorative arts,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,Exhibitions of Gobelins tapestries
+Galerie nationale du Jeu de Paume,Photography,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,(MF) Modern and postmodern photography and media
+Galeries nationales du Grand Palais,Art,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,Art exhibits and cultural events programmed by the Réunion des musées nationaux et du Grand Palais des Champs-Élysées
+Henri Cartier-Bresson Foundation,Photography,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,"Archives and work of photographers Henri Cartier-Bresson and Martine Franck, exhibitions of other photographers, painters, sculptors, and illustrators"
+Institut Tessin,Art,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,Swedish art and culture
+Maison d'Auguste Comte,Historic house,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,"Restored 19th-century period rooms of positivist philosopher Auguste Comte (1798–1857), one of the 32 Maisons des illustres (fr) in the region Île de France"
+Maison de Balzac,Historic house,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,(VP) Restored 19th-century rooms with mementos of author novelist Honoré de Balzac
+Maison européenne de la photographie,Photography,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,(VP premises) Contemporary photography
+Maison de Victor Hugo,Historic house,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,(VP) Restored 19th-century house of author novelist Victor Hugo
+Maison La Roche,Historic house,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0,"Operated by Fondation Le Corbusier, 1920s house designed by Le Corbusier and Pierre Jeanneret, exhibits art collection and archives of Le Corbusier"
+"Maxim's Art Nouveau ""Collection 1900""",Decorative art,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,"Art Nouveau objects and decor, located above Maxim's restaurant"
+Mémorial de la Shoah,History,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,History of the Holocaust and French Jews in World War II
+Minerals collection of Pierre and Marie Curie University,Geology,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1500 minerals on display in 24 display cases
+Mona Bismarck American Center,Art,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,Exhibitions of American art
+Mundolingua,Science,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,"Information, objects and documents relating to language, linguistic diversity and linguistics"
+Musée – Librairie du Compagnonnage,History,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"History of French trade guilds, skilled craftsmen in fields such as cooking, pastry, plumbing, ironworks, masonry, cabinetmaking, carpentry"
+Musée Adzak,Art,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,"Exhibits paintings, sculpture, and photography by a wide range of artists"
+"Musée ""Bible et Terre Sainte""",Archaeology,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,Archaeological artifacts arranged to show everyday life in Palestine from 5000 BCE to 600 CE
+Musée Baccarat,Decorative art,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,"Baccarat fine glass work, including vases, dishes and stemware, and limited-edition collections"
+Musée Bourdelle,Art,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"(VP) Sculptures, art and studio of Antoine Bourdelle"
+Musée Carnavalet,Multiple,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,"(VP) City of Paris' history, culture, art, archaeology, decorative arts"
+Musée Cernuschi,Art,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,"(VP) Asian art, specializing in works from China, Japan, and Korea"
+Musée Clemenceau,Historic house,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"Apartment and garden of Georges Clemenceau (1841–1929), French statesman and writer"
+Musée Cognacq-Jay,Art,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,(VP) 18th-century French fine and decorative art
+Musée Curie,Science,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,History of radiology research and the work of Pierre and Marie Curie
+Musée d'Art Dentaire Pierre Fauchard,Medical,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,"Dental history, tools and apparatus"
+Musée d'Art et d'Histoire du Judaïsme,Jewish,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,"Jewish art and history, history of the Jews in France since the Middle Ages and in the communities of Europe and North Africa"
+Musée d'Art Moderne de la Ville de Paris,Art,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,(VP) Modern and Contemporary art of the 20th and 21st centuries
+Musée d'Art Naïf – Max Fourny,Art,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"(VP premises) Exhibitions of folk art, naive art, and outsider art"
+Musée d'Ennery,Art,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Asian art with a focus on China and Japan
+Musée d'Histoire Contemporaine,History,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,"Located in the Hôtel national des Invalides, exhibits of French and international history through its collections of art, photographs, posters, political cartoons and objects"
+Musée d’histoire de la médecine,Medical,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,"Located at the second floor of the Paris Descartes University, features historic medical instruments and apparatus"
+Musée d'Orsay,Art,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,"Mainly French art dating from 1848 to 1914, including paintings, sculptures, furniture, and photography; houses the largest collection of Impressionist and post-Impressionist masterpieces in the world"
+Musée de l'Armée,Military,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,"Located in the Hôtel national des Invalides, national military museum of France, includes Musée des Plans-Reliefs, weapons, uniforms, regalia, armor, artillery, Napoleon's Tomb"
+Musée de l'Éventail,Fashion,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Hand fans and fan-making
+Musée des Archives Nationales,History,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Exhibit of documents drawn from the Archives Nationales
+Musée de l'Homme,Anthropology,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,Human evolution and the history of human sciences
+Musée de l'Orangerie,Art,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"Gallery of Impressionist and post-Impressionist paintings, features eight Water Lilies murals by Claude Monet"
+Musée de l'Ordre de la Libération,Military,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,"Located in the Hôtel national des Invalides, history of the Free French Forces in World War II"
+Musée de la Chasse et de la Nature,Sports,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Sport of hunting, includes hunting weapons, accessories, trophies, art and decorative art, stuffed animal mounts"
+Musée de la Contrefaçon,Law enforcement,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,History of counterfeiting objects
+Musée de la Franc-Maçonnerie,Masonic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,"History of Freemasonry in France, regalia, artifacts"
+Musée de la Magie,Magic,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,"Items relating to magic shows, including optical illusions, secret boxes, wind-up toys, magic mirrors, see-through glasses, posters, holds magic shows"
+Musée de la Cinémathèque,Film,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,"Part of the Cinémathèque Française, history of film and pre-cinema in France and around the world"
+Musée du 11 Conti - Monnaie de Paris,Numismatic,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,"Part of the Monnaie de Paris. Heritage collections, workshops of excellence"
+Musée de la Musique,Music,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,"Part of the Cité de la Musique, musical instruments, art"
+Musée de La Poste,Philatelic,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,"Postage stamps and postal history of France, currently closed for renovation"
+Musée de la Sculpture en Plein Air,Art,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,(VP) Outdoor sculptures from the second half of the twentieth century on display along the banks of the Seine
+Musée de la Vie Romantique,Multiple,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,"(VP) 19th house with Romantic-period art and decorative art, mementos of author George Sand"
+Musée de Minéralogie,Geology,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"Minerals, rocks, ores, gems, artificial minerals"
+Musée de Montmartre,Local,0,0,1,0,0,0,1,1,0,0,0,0,0,1,0,"(VP premises) Local history through paintings, photographs, posters and manuscripts"
+Musée des Arts Décoratifs,Decorative arts,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,"Includes decorative arts (furniture, glass, ceramics and more), interior design, fashion, textiles, advertising, graphic arts"
+Musée des Arts et Métiers,Technology,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"History of technology and industry, including advances in scientific instruments, materials, energy, mechanics, construction, communication and transport"
+Musée des Arts Forains,Amusement,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,"Funfair objects including amusement rides, fair stalls and restored attractions, merry-go-rounds and carousels, German swings"
+Musée des Collections Historiques de la Préfecture de Police,Law enforcement,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,History of policing in France
+Musée des Égouts de Paris,History,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,"(VP) History of tours of the Paris sewer system, role of sewer workers and methods of water treatment"
+Musée des Lunettes et Lorgnettes Pierre Marly,Medical,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,"History of eyewear, includes lorgnettes, glasses, telescopes, and binoculars"
+Musée des moulages dermatologiques de l'hôpital Saint-Louis,Medical,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,"Part of the historic building of the Hôpital Saint-Louis, features 19th-century wax casts of dermatological problems"
+Musée des Plans-Reliefs,Military,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Located in the Hôtel national des Invalides, military models of fortified cities created between 1668 and 1870"
+Musée du Barreau de Paris,Law enforcement,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,History of the Paris Bar and its lawyers
+Musée du Fumeur,Smoking,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,"Includes smoking pipes, Egyptian sheeshas, snuffboxes, cigars, tobacco samples, hemp-fiber clothing, etchings, portraits, photographs, videos, and scientific drawings of tobacco plants"
+Musée du Louvre,Art,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,"world's largest museum, includes paintings, prints and drawings, sculpture, decorative arts, Egyptian antiquities, Near Eastern antiquities, Greek, Etruscan and Roman antiquities, Islamic art"
+Musée du Général Leclerc de Hauteclocque et de la Libération de Paris – Musée Jean Moulin,History,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"(VP) History of Maréchal Philippe Leclerc de Hauteclocque, Jean Moulin, a major figure of the French Resistance, and the liberation of Paris in World War II"
+Musée du Luxembourg,Art,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Changing exhibitions of art
+Musée du Parfum Fragonard,Fashion,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,"History and process of perfume, antique perfume bottles, containers, toiletry sets, 19th-century period rooms"
+Musée du quai Branly,Art,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,"Indigenous art and cultures of Africa, Asia, Oceania, and the Americas"
+Musée du Service de Santé des Armées [fr],Medical,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,History of medical care for armed services in France
+Musée du Service des Objets Trouvés,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Items that have ended up in the Lost and Found department of the Paris Police
+Musée du Vin,Wine,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,"History of the French craft of winemaking, includes tools and objects used to work the grapevine and the wine, a wine cellar, cooperage"
+Musée Édith Piaf,Biographical,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,Life of singer Édith Piaf
+Musée Edouard Branly,Biographical,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,"Life of radio pioneer Édouard Branly, includes his research laboratory and equipment, open by appointment"
+Musée en Herbe,Children's,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,Art museum for children
+Musée Grévin,Wax,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Scenes from the history of France and modern life
+Musée Jacquemart-André,Historic house,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19th-century period house with major art collection
+Musée Maillol,Art,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Works by Aristide Maillol and art exhibitions
+Musée Marmottan Monet,Art,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"Features over three hundred Impressionist and Post-Impressionist works by Claude Monet, other Impressionist and Post-Impressionist art, illuminated manuscripts, Napoleonic era art and furniture, Italian and Flemish primitive paintings"
+Musée Moissan,Biographical,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,"Open by appointment, life of Henri Moissan (1852–1907), winner of the 1906 Nobel Prize in chemistry"
+Musée National d'Art Moderne,Art,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"Located at the Centre Georges-Pompidou, modern and contemporary art"
+Musée national de la Légion d'Honneur et des Ordres de Chevalerie,Military,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,"History of France's honors, medals, decorations, and knightly orders from Louis XI to the present, including Napoleonic souvenirs and more than 300 portraits"
+Musée national de la Marine,Maritime,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,"Includes ship model, maritime art, artifacts, photos"
+Musée national des Arts asiatiques-Guimet,Art,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,"Asian art, also known as Musée Guimet"
+Musée national du Moyen Âge,Decorative arts,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,"Formerly Musée de Cluny, Medieval art, houses six The Lady and the Unicorn tapestries, remnants of the third century Gallo-Roman baths"
+Musée national Eugène Delacroix,Art,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Life and works of Eugène Delacroix
+Musée national Gustave Moreau,Art,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Home and studio of Symbolist painter Gustave Moreau (1826-1898)
+Musée national Jean-Jacques Henner,Art,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,House and works of painter Jean-Jacques Henner (1829–1905)
+Musée Nissim de Camondo,Historic house,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,Museum of French decorative arts displayed as in a wealthy private home
+Musée Pasteur,Biographical,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Life of scientist Louis Pasteur
+Musée Picasso,Art,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,"Life and work of artist Pablo Picasso, also works by Cézanne, Degas, Rousseau, Seurat, de Chirico and Matisse, Iberian bronzes, African art"
+Musée Pierre Cardin,Fashion,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,Over 250 Haute Couture designs from 1950 to 2000 designed by Pierre Cardin
+Musée Rodin,Art,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,"Works of the French sculptors Auguste Rodin and Camille Claudel, located in the Hôtel Biron"
+Musée Valentin Haüy,Medical,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,History of the blind and of the methods that gave them access to culture
+Musée Yves Saint Laurent Paris,Fashion,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,"Opening in 2017, operated by the Fondation Pierre Bergé – Yves Saint Laurent, works by fashion designer Yves Saint Laurent"
+Musée Zadkine,Art,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,(VP) House and work of sculptor Ossip Zadkine (1890–1967)
+Muséum national d'Histoire naturelle,Natural history,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"Includes galleries for minerals and gems, fossils and dinosaurs and comparative anatomy, and the Grand Gallery of Evolution"
+Palais de la Découverte,Science,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"Includes interactive exhibits for mathematics, physics, astronomy, chemistry, geology and biology"
+Palais de Tokyo,Art,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Modern and contemporary art
+Palais Galliera,Fashion,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,"(VP) Also known as Musée de la Mode et du Costume de la Ville de Paris, fashion and fashion history, includes exhibits of French fashion design and costume from the eighteenth century to the present; closed between exhibitions"
+Pavillon de l'Arsenal,Architecture,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,(VP premises) Architecture and urban planning
+Pavillon de l'eau,Technology,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,(VP premises) History of the city's water supply
+Petit Musée de l'Argenterie,Decorative arts,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Decorative arts made of silver
+Petit Palais,Art,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"(VP) Paintings, sculpture, Ancient Greek and Roman art, Renaissance art and artifacts, 17th, 18th and 19th century art and artifacts, art from the Western and Eastern Christian worlds, engravings and drawings, photography"
+Salle des Traditions de la Garde Républicaine,Military,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,History of the Garde Républicaine
+Tenniseum,Sports,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Part of Roland Garros Stadium
+Théâtre-Musée des Capucines,Fashion,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Perfume
+Tour Jean-sans-Peur,History,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,History of the medieval tower and medieval Paris
