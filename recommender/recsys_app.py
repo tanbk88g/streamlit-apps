@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 
-df = pd.read_csv('../data/museum_list_cat.csv')
+df = pd.read_csv('./data/museum_list_cat.csv')
 museum = df.drop(['Type', 'Summary'], axis=1)
 museum.set_index('Name', inplace=True)
 
