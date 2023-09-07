@@ -1,4 +1,3 @@
 pandas
 numpy
-sklearn
 scikit-learn==1.1.1
