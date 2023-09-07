@@ -1,8 +1,8 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import scikit-learn
-from scikit-learn.metrics.pairwise import cosine_similarity
+import sklearn
+from sklearn.metrics.pairwise import cosine_similarity
 
 df = pd.read_csv('./data/museum_list_cat.csv')
 museum = df.drop(['Type', 'Summary'], axis=1)
