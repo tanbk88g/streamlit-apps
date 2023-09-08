@@ -1,15 +1,13 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import sklearn
-from sklearn.metrics.pairwise import cosine_similarity
+import pickle
 
 df = pd.read_csv('./data/museum_list_cat.csv')
 museum = df.drop(['Type', 'Summary'], axis=1)
 museum.set_index('Name', inplace=True)
 
-museum_sim = pd.DataFrame(cosine_similarity(museum), columns=museum.index, index=museum.index)
-
+museum_sim = pickle.load(open('./data/museum_sim.pkl', 'rb'))
 st.title('Paris Museum Recommender')
 
 choice = st.selectbox(label='Choose a museum from the drop-down list', options=museum.index)
