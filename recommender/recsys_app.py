@@ -3,11 +3,11 @@ import pandas as pd
 import numpy as np
 import pickle
 
-museum_sim = pickle.load(open('museum_sim.pkl', 'rb'))
 
 df = pd.read_csv('museum_list_cat.csv')
 museum = df.drop(['Type', 'Summary'], axis=1)
 museum.set_index('Name', inplace=True)
+museum_sim = pickle.load(open('museum_sim.pkl', 'rb'))
 
 st.title('Paris Museum Recommender')
 
