@@ -5,11 +5,11 @@ import pickle
 
 st.set_page_config(layout='wide')
 
-df = pd.read_csv('museum_list_cat.csv')
+df = pd.read_csv('data/museum_list_cat.csv')
 museum = df.drop(['Type', 'Summary'], axis=1)
 museum.set_index('Name', inplace=True)
 
-museum_sim = pickle.load(open('museum_sim.pkl', 'rb'))
+museum_sim = pickle.load(open('data/museum_sim.pkl', 'rb'))
 st.title('Paris Museum Recommender')
 
 col1, col2 = st.columns([0.5,0.5], gap='medium')
