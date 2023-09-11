@@ -16,12 +16,14 @@ col1, col2 = st.columns([0.5,0.5], gap='medium')
 
 with col1:
     st.header('More like this')
-    choice = st.selectbox(label='Choose a museum from the drop-down list:', options=museum.index)
-    st.write('You have chosen:', choice)
+    box_choice = st.selectbox(label='Choose a museum from the drop-down list:', options=museum.index)
+    st.write('You have chosen:', box_choice)
 
-    museum_series = museum_sim[choice].drop(choice).sort_values(ascending=False).head(10)
+    museum_series = museum_sim[box_choice].drop(box_choice).sort_values(ascending=False).head(10)
     st.write('Here are similar recommendations:')
-    st.dataframe(museum_series.index, hide_index=True, use_container_width=True)
+    c1_choice = st.radio('Select museum button for more info:', museum_series.index)
+    st.write('Description for:', c1_choice)
+    st.write(df[df['Name']==c1_choice]['Summary'].item())
 
 with col2:
     st.header('You may like')
@@ -45,8 +47,9 @@ with col2:
         
         submit = st.form_submit_button('Show More')
     
-        if submit:
-            my_recommend = np.dot(museum.values, my_pref.values)
-            my_recommend = pd.Series(my_recommend, index=museum.index)
-            my_choice = my_recommend.sort_values(ascending=False).head(10).index
-            st.dataframe(my_choice, hide_index=True, use_container_width=True)
+    my_recommend = np.dot(museum.values, my_pref.values)
+    my_series = pd.Series(my_recommend, index=museum.index)
+    my_choice = my_series.sort_values(ascending=False).head(10).index
+    c2_choice = st.radio('Select museum button for more info:', my_choice)
+    st.write('Description for:', c2_choice)
+    st.write(df[df['Name']==c2_choice]['Summary'].item())
